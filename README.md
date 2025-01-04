@@ -59,4 +59,4 @@ View the MLflow experiment logs on Google Drive: [MLflow Logs Folder](https://dr
 
 ## How to Use This Repository
 1. **Notebook**: Open the `MLflow_Task06_Qafza.ipynb` file to explore the code and MLflow experiment tracking setup.
-2. **Insights**: Read the Insights from `MLflow_Task06_LubnaKanan.docx` file or from this `README File`.
+2. **Insights**: Read the Insights from `MLflow_Task06_LubnaKanan.pdf` file or from this `README File`.

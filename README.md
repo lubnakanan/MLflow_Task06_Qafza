@@ -58,5 +58,5 @@ View the MLflow experiment logs on Google Drive: [MLflow Logs Folder](https://dr
 ---
 
 ## How to Use This Repository
-1. **Notebook**: Open the `Titanic_Survival_Prediction.ipynb` file to explore the code and MLflow experiment tracking setup.
-2. **Insights**: Read the `Insights.md` or `Insights.docx` file for detailed analysis of evaluation metrics.
+1. **Notebook**: Open the `MLflow_Task06_Qafza.ipynb` file to explore the code and MLflow experiment tracking setup.
+2. **Insights**: Read the Insights from `MLflow_Task06_LubnaKanan.docx` file or from this `README File`.
